@@ -1,5 +1,15 @@
 # Digital Down Python
 
+## Installation
+
+To install Digital Down, use pip:
+
+```
+pip install Digital-Down
+```
+
+## Usage
+
 Digital Down proposes an obvious convention for implementing the import statement:
 
 ```python
