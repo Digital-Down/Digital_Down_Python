@@ -1,0 +1,96 @@
+09-08-2024
+Digital_Down_Python 1.0.0 Release
+
+09-09-2024
+1.0.1		Changed AudioSampleValues arguments from wav to wav file path
+1.0.2		Changed Methylphenethylamine arguments from samples list to wav file path
+1.1.2		Added BetaPhaseExtraction
+1.1.3		Changed MindHarvestNetwork arguments from wav to wav file path
+1.1.4 		Added File Output Path to MindHarvestNetwork
+1.1.5		Added wav file path to combine wav with video
+
+Digital_Down_Python 1.1.5 Release
+
+1.1.6		Fixed indention bug on AudioSampleValues
+
+09-10-2024
+Digital_Down_Python 1.1.6 Release
+
+1.1.7 		Took out the audio combine in MindHarvestNetwork until I figure it out
+1.1.8 		Deprecated BetaPhaseExtraction
+
+09-11-2024
+1.1.9		Fixed MindHarvestNetwork Audio Combine
+
+Digital_Down_Python 1.1.9 Release
+
+1.2.0		BetaPhaseExtraction taken out of main __init__ (I forgot)
+
+Digital_Down_Python 1.2.0 Release
+
+09-16-2024
+1.3.0		Added DissectionSynthesis
+1.4.0		Added Dissection Synthesis 1.0.0 as reference
+1.5.0		Added LicenseGenerator
+1.6.0		Added ImagePixelValues
+1.7.0		Added VideoPixelValues
+
+09-18-2024
+1.8.0		Added TemporalDissectionSynthesis
+
+09-19-2024
+1.9.0		Added OscillationExtraction
+
+09-23-2024
+2.0.0		Added Scales
+2.1.0		Added Chords
+2.2.0		Added CompositionTools
+
+09-28-2024
+2.3.0		Added SongMetadata
+2.4.0		Added AlbumMetadata
+2.4.1 		Updated Documentation
+
+Digital_Down_Python 2.4.1 Release
+
+2.5.1		Added ListAutomationTools
+2.6.1		Added AlphaImage
+2.7.1		Added AlphaVideo
+2.8.1		Added AlphaOverVideo
+2.9.1		Added FramesToVideo
+2.9.2		Fixed init		
+
+Digital_Down_Python 2.9.2 Release
+
+
+09-29-2024
+
+2.9.3		Fixed Deprecate in documentation
+2.9.4		Deleted output Processing in Extraction/Single Phase Extraction
+
+Digital_Down_Python 2.9.4 Release
+
+10-04-2024
+
+2.9.5		Changed Extraction Synthesis to Surgical Synthesis
+2.9.6		Merged SinglePhase into extractionsynthesis function
+2.9.7		Deprecated ExtractionSynthesis and SinglePhaseExtraction
+3.0.7		Added AudioNormalize
+3.1.7		Added AudioProselyte for wav correction in surgical synthesis
+
+10-05-2024
+
+3.1.8		surgicalsynthesis imports from file as opposed to folder
+
+
+
+
+
+
+
+
+
+
+
+
+
